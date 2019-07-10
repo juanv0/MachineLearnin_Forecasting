@@ -1,0 +1,3 @@
+https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/
+
+https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833

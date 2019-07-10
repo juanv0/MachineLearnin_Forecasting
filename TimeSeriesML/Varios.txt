@@ -1,0 +1,5 @@
+https://www.kaggle.com/sophieg/quick-pandas-string-manipulation
+
+https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/
+
+https://www.datascience.com/blog/time-series-forecasting-machine-learning-differences

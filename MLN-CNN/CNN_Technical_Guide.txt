@@ -1,0 +1,2 @@
+http://www.robots.ox.ac.uk/~vgg/practicals/cnn/
+http://neuralnetworksanddeeplearning.com/chap6.html#recent_progress_in_image_recognition
